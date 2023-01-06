@@ -1,0 +1,20 @@
+{
+  "photos": [
+    {
+      "imageUrl": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2021/09/17213900/cover-feature-mathematic.jpg",
+      "captions": "Matematika SD",
+      "createdAt": "2022-11-25T10:25:50.394Z",
+      "updatedAt": "2023-01-28T04:31:16.956Z",
+      "href": "https://www.youtube.com/watch?v=JSVOGQhqNlw",
+      "secret": "password",
+      "id": 1
+    },
+    {
+      "imageUrl": "https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2021/09/17213900/cover-feature-mathematic.jpg",
+      "captions": "Matematika SMP",
+      "createdAt": "2022-11-25T10:25:50.394Z",
+      "updatedAt": "2023-01-28T04:31:16.956Z",
+      "href": "https://www.youtube.com/watch?v=JSVOGQhqNlw"
+    }
+  ]
+}
